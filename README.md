@@ -175,7 +175,7 @@ module.exports = function(env) {
 
 ```json
 {
-  "entry_point": "./demo/demo.js",
+  "entry_point": "demo/demo.js",
   "output_file": "browser_bundle.js",
   "output_path": "demo",
   "vendor_bundle_name": "vendor"
